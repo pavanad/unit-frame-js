@@ -1,0 +1,14 @@
+{
+  "name": "UnitFrame",
+  "homepage": "https://github.com/pavanad/unit-frame-js",
+  "authors": [
+    "Adilson Pavan <adilson.pavan@gmail.com>"
+  ],
+  "description": "UnitFrame is a simple jQuery plugin for conversion of units of different quantities",
+  "main": "unitframe.js",
+  "moduleType": [],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^2.2.0"
+  }
+}

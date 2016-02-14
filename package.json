@@ -1,0 +1,28 @@
+{
+  "name": "unit-frame-js",
+  "version": "0.0.1",
+  "description": "UnitFrame is a simple jQuery plugin for conversion of units of different quantities",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^1.11.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavanad/unit-frame-js.git"
+  },
+  "author": "Adilson Pavan <adilson.pavan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavanad/unit-frame-js/issues"
+  },
+  "homepage": "https://github.com/pavanad/unit-frame-js#readme"
+}
